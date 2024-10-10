@@ -1,0 +1,16 @@
+We can create user in jenkins 
+mange jenkins>> user >> create user{this user all access he can do all things what you can do like vo bhi build krr sakta hai configure krr sakta hai}
+
+To overcome this issue we can do Role back access control(RBAC)
+go to search plugin (https://plugins.jenkins.io/) and searh for role base.
+and install the plugin with the name {Role base authorization stretegy}
+
+recheck plugin is install or not.
+
+goto security section
+
+add role strategy apply save {after doing when you login different user you don't get any acces for that user}
+then you found a new bar manage and acces roles then create a role.
+
+and assign the role to the user then you see pwdwhat are all access you give to him he will do only those things.
+
