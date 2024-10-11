@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1728582456,,"wq!"
+|2,0,1728647613,,"wq!"
 :q!
 |2,0,1728579484,,"q!"
 :wqq
@@ -29,36 +29,46 @@
 # Registers:
 
 # File marks:
-'0  16  0  ~/Jenkins/jenkinsrbac.txt
-|4,48,16,0,1728582456,"~/Jenkins/jenkinsrbac.txt"
-'1  8  0  ~/Jenkins/install_jenkins.sh
-|4,49,8,0,1728579484,"~/Jenkins/install_jenkins.sh"
-'2  9  27  ~/Jenkins/installin_jen.sh
-|4,50,9,27,1728556515,"~/Jenkins/installin_jen.sh"
-'3  1  10  ~/Jenkins/installim_jen
-|4,51,1,10,1728556462,"~/Jenkins/installim_jen"
-'4  8  0  ~/Jenkins/install_jenkins.sh
-|4,52,8,0,1728556382,"~/Jenkins/install_jenkins.sh"
+'0  1  21  ~/pipeline.txt
+|4,48,1,21,1728647613,"~/pipeline.txt"
+'1  16  0  ~/Jenkins/jenkinsrbac.txt
+|4,49,16,0,1728582456,"~/Jenkins/jenkinsrbac.txt"
+'2  8  0  ~/Jenkins/install_jenkins.sh
+|4,50,8,0,1728579484,"~/Jenkins/install_jenkins.sh"
+'3  9  27  ~/Jenkins/installin_jen.sh
+|4,51,9,27,1728556515,"~/Jenkins/installin_jen.sh"
+'4  1  10  ~/Jenkins/installim_jen
+|4,52,1,10,1728556462,"~/Jenkins/installim_jen"
 '5  8  0  ~/Jenkins/install_jenkins.sh
-|4,53,8,0,1728556343,"~/Jenkins/install_jenkins.sh"
+|4,53,8,0,1728556382,"~/Jenkins/install_jenkins.sh"
 '6  8  0  ~/Jenkins/install_jenkins.sh
 |4,54,8,0,1728556343,"~/Jenkins/install_jenkins.sh"
-'7  18  27  ~/Jenkins/install_jenkins.sh
-|4,55,18,27,1728556221,"~/Jenkins/install_jenkins.sh"
+'7  8  0  ~/Jenkins/install_jenkins.sh
+|4,55,8,0,1728556343,"~/Jenkins/install_jenkins.sh"
 '8  18  27  ~/Jenkins/install_jenkins.sh
 |4,56,18,27,1728556221,"~/Jenkins/install_jenkins.sh"
 '9  18  27  ~/Jenkins/install_jenkins.sh
 |4,57,18,27,1728556221,"~/Jenkins/install_jenkins.sh"
 
 # Jumplist (newest first):
+-'  1  21  ~/pipeline.txt
+|4,39,1,21,1728647613,"~/pipeline.txt"
 -'  16  0  ~/Jenkins/jenkinsrbac.txt
 |4,39,16,0,1728582456,"~/Jenkins/jenkinsrbac.txt"
+-'  16  0  ~/Jenkins/jenkinsrbac.txt
+|4,39,16,0,1728582456,"~/Jenkins/jenkinsrbac.txt"
+-'  1  0  ~/Jenkins/jenkinsrbac.txt
+|4,39,1,0,1728582440,"~/Jenkins/jenkinsrbac.txt"
 -'  1  0  ~/Jenkins/jenkinsrbac.txt
 |4,39,1,0,1728582440,"~/Jenkins/jenkinsrbac.txt"
 -'  8  0  ~/Jenkins/install_jenkins.sh
 |4,39,8,0,1728579484,"~/Jenkins/install_jenkins.sh"
 -'  8  0  ~/Jenkins/install_jenkins.sh
 |4,39,8,0,1728579484,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728579484,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728579484,"~/Jenkins/install_jenkins.sh"
 -'  9  27  ~/Jenkins/installin_jen.sh
 |4,39,9,27,1728556515,"~/Jenkins/installin_jen.sh"
 -'  9  27  ~/Jenkins/installin_jen.sh
@@ -67,6 +77,22 @@
 |4,39,9,27,1728556515,"~/Jenkins/installin_jen.sh"
 -'  9  27  ~/Jenkins/installin_jen.sh
 |4,39,9,27,1728556515,"~/Jenkins/installin_jen.sh"
+-'  9  27  ~/Jenkins/installin_jen.sh
+|4,39,9,27,1728556515,"~/Jenkins/installin_jen.sh"
+-'  9  27  ~/Jenkins/installin_jen.sh
+|4,39,9,27,1728556515,"~/Jenkins/installin_jen.sh"
+-'  9  27  ~/Jenkins/installin_jen.sh
+|4,39,9,27,1728556515,"~/Jenkins/installin_jen.sh"
+-'  9  27  ~/Jenkins/installin_jen.sh
+|4,39,9,27,1728556515,"~/Jenkins/installin_jen.sh"
+-'  1  0  ~/Jenkins/installin_jen.sh
+|4,39,1,0,1728556495,"~/Jenkins/installin_jen.sh"
+-'  1  0  ~/Jenkins/installin_jen.sh
+|4,39,1,0,1728556495,"~/Jenkins/installin_jen.sh"
+-'  1  0  ~/Jenkins/installin_jen.sh
+|4,39,1,0,1728556495,"~/Jenkins/installin_jen.sh"
+-'  1  0  ~/Jenkins/installin_jen.sh
+|4,39,1,0,1728556495,"~/Jenkins/installin_jen.sh"
 -'  1  0  ~/Jenkins/installin_jen.sh
 |4,39,1,0,1728556495,"~/Jenkins/installin_jen.sh"
 -'  1  0  ~/Jenkins/installin_jen.sh
@@ -91,6 +117,22 @@
 |4,39,1,10,1728556462,"~/Jenkins/installim_jen"
 -'  1  10  ~/Jenkins/installim_jen
 |4,39,1,10,1728556462,"~/Jenkins/installim_jen"
+-'  1  10  ~/Jenkins/installim_jen
+|4,39,1,10,1728556462,"~/Jenkins/installim_jen"
+-'  1  10  ~/Jenkins/installim_jen
+|4,39,1,10,1728556462,"~/Jenkins/installim_jen"
+-'  1  10  ~/Jenkins/installim_jen
+|4,39,1,10,1728556462,"~/Jenkins/installim_jen"
+-'  1  10  ~/Jenkins/installim_jen
+|4,39,1,10,1728556462,"~/Jenkins/installim_jen"
+-'  1  10  ~/Jenkins/installim_jen
+|4,39,1,10,1728556462,"~/Jenkins/installim_jen"
+-'  1  10  ~/Jenkins/installim_jen
+|4,39,1,10,1728556462,"~/Jenkins/installim_jen"
+-'  1  10  ~/Jenkins/installim_jen
+|4,39,1,10,1728556462,"~/Jenkins/installim_jen"
+-'  1  10  ~/Jenkins/installim_jen
+|4,39,1,10,1728556462,"~/Jenkins/installim_jen"
 -'  8  0  ~/Jenkins/install_jenkins.sh
 |4,39,8,0,1728556382,"~/Jenkins/install_jenkins.sh"
 -'  8  0  ~/Jenkins/install_jenkins.sh
@@ -107,6 +149,38 @@
 |4,39,8,0,1728556382,"~/Jenkins/install_jenkins.sh"
 -'  8  0  ~/Jenkins/install_jenkins.sh
 |4,39,8,0,1728556382,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728556382,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728556382,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728556382,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728556382,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728556382,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728556382,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728556382,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728556382,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728556343,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728556343,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728556343,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728556343,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728556343,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728556343,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728556343,"~/Jenkins/install_jenkins.sh"
+-'  8  0  ~/Jenkins/install_jenkins.sh
+|4,39,8,0,1728556343,"~/Jenkins/install_jenkins.sh"
 -'  8  0  ~/Jenkins/install_jenkins.sh
 |4,39,8,0,1728556343,"~/Jenkins/install_jenkins.sh"
 -'  8  0  ~/Jenkins/install_jenkins.sh
@@ -160,99 +234,32 @@
 -'  18  27  ~/Jenkins/install_jenkins.sh
 |4,39,18,27,1728556221,"~/Jenkins/install_jenkins.sh"
 -'  18  27  ~/Jenkins/install_jenkins.sh
-|4,39,18,27,1728556210,"~/Jenkins/install_jenkins.sh"
+|4,39,18,27,1728556221,"~/Jenkins/install_jenkins.sh"
 -'  18  27  ~/Jenkins/install_jenkins.sh
-|4,39,18,27,1728556210,"~/Jenkins/install_jenkins.sh"
+|4,39,18,27,1728556221,"~/Jenkins/install_jenkins.sh"
 -'  18  27  ~/Jenkins/install_jenkins.sh
-|4,39,18,27,1728556210,"~/Jenkins/install_jenkins.sh"
+|4,39,18,27,1728556221,"~/Jenkins/install_jenkins.sh"
 -'  18  27  ~/Jenkins/install_jenkins.sh
-|4,39,18,27,1728556210,"~/Jenkins/install_jenkins.sh"
+|4,39,18,27,1728556221,"~/Jenkins/install_jenkins.sh"
 -'  18  27  ~/Jenkins/install_jenkins.sh
-|4,39,18,27,1728556210,"~/Jenkins/install_jenkins.sh"
+|4,39,18,27,1728556221,"~/Jenkins/install_jenkins.sh"
 -'  18  27  ~/Jenkins/install_jenkins.sh
-|4,39,18,27,1728556210,"~/Jenkins/install_jenkins.sh"
+|4,39,18,27,1728556221,"~/Jenkins/install_jenkins.sh"
 -'  18  27  ~/Jenkins/install_jenkins.sh
-|4,39,18,27,1728556210,"~/Jenkins/install_jenkins.sh"
+|4,39,18,27,1728556221,"~/Jenkins/install_jenkins.sh"
 -'  18  27  ~/Jenkins/install_jenkins.sh
-|4,39,18,27,1728556210,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556067,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556034,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556034,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556034,"~/Jenkins/install_jenkins.sh"
--'  3  0  ~/Jenkins/install_jenkins.sh
-|4,39,3,0,1728556034,"~/Jenkins/install_jenkins.sh"
+|4,39,18,27,1728556221,"~/Jenkins/install_jenkins.sh"
+-'  18  27  ~/Jenkins/install_jenkins.sh
+|4,39,18,27,1728556221,"~/Jenkins/install_jenkins.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/pipeline.txt
+	*	1728647612	0
+	"	1	21
+	^	1	22
+	.	1	21
+	+	1	21
 
 > ~/Jenkins/jenkinsrbac.txt
 	*	1728582454	0
