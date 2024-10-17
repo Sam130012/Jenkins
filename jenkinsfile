@@ -1,0 +1,55 @@
+pipeline {
+    agent any
+    environment{
+        name="sam"
+    }
+        
+    parameters{
+        string(name: 'person', defaultValue: 'sam', description: 'aur kyy hal hai')
+    }
+
+    stages {
+        stage('run a command') {
+            steps {
+                sh '''
+                
+                pwd
+                ls
+                date
+               
+                '''
+            }
+        }
+        stage('parameters') {
+            environment{
+                naa="dan"
+            }
+            steps {
+                echo 'build '
+                sh 'echo "${name}"'
+                sh 'echo "${naa}"'
+                sh 'echo "${person}"'
+            }
+        }
+        stage('deploy-to-test') {
+            steps {
+                echo1 'deploy-to-test'
+                sh 'echo "${name}"'
+                sh 'echo "${naa}"'
+            }
+            
+        }
+    }
+    
+    post{
+        always{
+            echo "humesa chalega"
+        }
+        failure{
+            echo "fail n"
+        }
+        success{
+            echo "succ"
+        }
+    }
+}
